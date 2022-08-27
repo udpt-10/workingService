@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-UdptApplication<udpt>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.sanzial.udpt.UdptApplication",
+            "projectName": "udpt",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
